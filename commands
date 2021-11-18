@@ -3,5 +3,5 @@
 /**********************************/
 
 npm init -y   // intitiate NPM
-npm install babel-cli@6 babel-preset-react-app@3    \\NPM packages
-npx babel --watch src --out-dir . --presets react-app/prod   \\ runs the babel compiler
+npm install babel-cli@6 babel-preset-react-app@3    // NPM packages
+npx babel --watch src --out-dir . --presets react-app/prod   // runs the babel compiler
